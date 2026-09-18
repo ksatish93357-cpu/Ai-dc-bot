@@ -1,0 +1,12 @@
+{
+  "name": "grand-mobile-ai-discord-bot",
+  "version": "2.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {"start": "node index.js"},
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^16.6.1",
+    "groq-sdk": "^0.37.0"
+  }
+}

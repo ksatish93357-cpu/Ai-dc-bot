@@ -1,0 +1,283 @@
+==================================================
+GRAND MOBILE RP - FAMWARS (FW) RULES DATABASE
+==================================================
+
+[RULE_KEY]: 1.1 fw
+Rule Number: 1.1 FW
+Title: 1.1 FW - Game Violations & Exploits
+Description: Violating the game rules or using any exploits, third-party software, or tools (cheats, scripts, or other external software) is prohibited.
+Punishment: According to the game rules
+Category: FW
+Keywords: cheats, scripts, exploits, third-party, 1.1fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.2 fw
+Rule Number: 1.2 FW
+Title: 1.2 FW - Climbing Cranes
+Description: Climbing the cranes near the river is prohibited.
+Punishment: DEMORGAN UP TO 30 MINUTES
+Category: FW
+Keywords: crane, climbing, river crane, 1.2fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.3 fw
+Rule Number: 1.3 FW
+Title: 1.3 FW - Entrance Barricades
+Description: Creating barricades using vehicles at the entrances to the location is prohibited.
+Punishment: VEHICLE SPAWN RESET + DEMORGAN UP TO 30 MINUTES
+Category: FW
+Keywords: barricade, vehicle block, entrance block, 1.3fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.4 fw
+Rule Number: 1.4 FW
+Title: 1.4 FW - Allowed Weapons
+Description: All types of weapons available in the in-game store are allowed.
+Punishment: ALLOWED
+Category: FW
+Keywords: weapons, store weapons, allowed guns, 1.4fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.5 fw
+Rule Number: 1.5 FW
+Title: 1.5 FW - Death Evasion
+Description: Any form of death evasion is prohibited, including: leaving the game, going AFK, or entering zones where shooting is prohibited (entrances).
+Punishment: WARN
+Category: FW
+Keywords: clogging, afk, death evasion, leave game, 1.5fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.6 fw
+Rule Number: 1.6 FW
+Title: 1.6 FW - Revenge Killing (RK)
+Description: Revenge killing (RK) on the abandoned port territory is prohibited. Clarification: participating in the Family War from another account (alt/twink) after dying on the main account is also prohibited.
+Punishment: WARN
+Category: FW
+Keywords: rk, revenge kill, alt account, twink, 1.6fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.7 fw
+Rule Number: 1.7 FW
+Title: 1.7 FW - Leaving Port Territory
+Description: Leaving the port territory during the event is prohibited.
+Punishment: DEMORGAN UP TO 30 MINUTES
+Category: FW
+Keywords: leave zone, port exit, outside territory, 1.7fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.7.1 fw
+Rule Number: 1.7.1 FW
+Title: 1.7.1 FW - Camping Entrance & Outside Shooting
+Description: Camping at the port entrance and blocking other families from entering the territory is prohibited. Clarification: shooting participants outside the event territory is also prohibited.
+Punishment: WARN
+Category: FW
+Keywords: entrance camp, outside shooting, blocking entry, 1.7.1fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.8 fw
+Rule Number: 1.8 FW
+Title: 1.8 FW - Crash/Disconnect Re-entry
+Description: After a crash or connection loss, it is prohibited to return to the exact location where the player disconnected. Clarification: even if you reconnect at a different location after a crash, returning to the Family War is still prohibited.
+Punishment: DEMORGAN 30 MINUTES
+Category: FW
+Keywords: crash, reconnect, disconnect, return zone, 1.8fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.9 fw
+Rule Number: 1.9 FW
+Title: 1.9 FW - Mask Usage
+Description: Using masks during the event is prohibited.
+Punishment: DEMORGAN UP TO 30 MINUTES
+Category: FW
+Keywords: mask, family war mask, face mask, 1.9fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.10 fw
+Rule Number: 1.10 FW
+Title: 1.10 FW - Family Alliances
+Description: Forming alliances with other families is prohibited.
+Punishment: WARN FOR ALL PARTICIPANTS
+Category: FW
+Keywords: teaming, alliance, cross team, 1.10fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.11 fw
+Rule Number: 1.11 FW
+Title: 1.11 FW - Pre-event Starting Position
+Description: A family may occupy only one starting position before the system officially begins the event.
+Punishment: DEMORGAN UP TO 30 MINUTES
+Category: FW
+Keywords: start position, multiple spots, pre event, 1.11fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.12 fw
+Rule Number: 1.12 FW
+Title: 1.12 FW - Health Restoration in Cover
+Description: The process of restoring health must be performed entirely in cover. Note: this applies from the beginning to the end of the animation.
+Punishment: DEMORGAN UP TO 30 MINUTES
+Category: FW
+Keywords: heal, medkit, open heal, health restore, 1.12fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.13 fw
+Rule Number: 1.13 FW
+Title: 1.13 FW - Animation Cancel/Shortening
+Description: Interrupting or shortening animations by any method is prohibited.
+Punishment: DEMORGAN UP TO 30 MINUTES
+Category: FW
+Keywords: anim cancel, fast heal, shorten anim, 1.13fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.14 fw
+Rule Number: 1.14 FW
+Title: 1.14 FW - On-Foot Entry Only
+Description: Entering the event territory is allowed only on foot, without using any vehicles or mobility devices. Note: entering the territory is allowed only through the three designated entrances.
+Punishment: DEMORGAN UP TO 30 MINUTES
+Category: FW
+Keywords: vehicle entry, on foot, entrances, 1.14fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.15 fw
+Rule Number: 1.15 FW
+Title: 1.15 FW - Flying Devices
+Description: Using jetpacks, balloons, or any other flying devices is prohibited.
+Punishment: DEMORGAN UP TO 30 MINUTES
+Category: FW
+Keywords: jetpack, balloon, flying, 1.15fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.16 fw
+Rule Number: 1.16 FW
+Title: 1.16 FW - AFK Limit
+Description: Being AFK for more than 30 seconds during the event is prohibited.
+Punishment: KICK
+Category: FW
+Keywords: afk, idle, standing, 1.16fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.17 fw
+Rule Number: 1.17 FW
+Title: 1.17 FW - Friendly Fire / Team Kill
+Description: Killing or damaging members of your own family is prohibited.
+Punishment: DEMORGAN UP TO 30 MINUTES | SEVERE OR MASS VIOLATIONS: WARN
+Category: FW
+Keywords: tk, team kill, friendly fire, 1.17fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.18 fw
+Rule Number: 1.18 FW
+Title: 1.18 FW - Advantageous Skins
+Description: Using skins that may provide advantages over other players is prohibited.
+Punishment: DEMORGAN 30 MINUTES
+Category: FW
+Keywords: skin advantage, hitbox skin, custom skin, 1.18fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.19 fw
+Rule Number: 1.19 FW
+Title: 1.19 FW - Kill Boosting
+Description: Any form of kill boosting is prohibited.
+Punishment: DEMORGAN 60 MINUTES
+Category: FW
+Keywords: kill boost, free kills, boosting, 1.19fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.20 fw
+Rule Number: 1.20 FW
+Title: 1.20 FW - Late Entry (After 40th Minute)
+Description: Entering the Family War territory after the 40th minute of the event (near the end of the event) is prohibited.
+Punishment: DEMORGAN 60 MINUTES
+Category: FW
+Keywords: late entry, 40th minute, late join, 1.20fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.21 fw
+Rule Number: 1.21 FW
+Title: 1.21 FW - Minimum Level Requirement
+Description: Players below level 8 are prohibited from participating in the event.
+Punishment: SPAWN RESET | REPEATED VIOLATIONS: DEMORGAN UP TO 30 MINUTES
+Category: FW
+Keywords: level 8, low level, level requirement, 1.21fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.22 fw
+Rule Number: 1.22 FW
+Title: 1.22 FW - Pre-event Shooting
+Description: Killing or damaging members of other families before the event officially begins is prohibited.
+Punishment: DEMORGAN 60 MINUTES
+Category: FW
+Keywords: early shoot, pre event kill, before start, 1.22fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.23 fw
+Rule Number: 1.23 FW
+Title: 1.23 FW - Body Armor Usage
+Description: Using body armor during the event is prohibited.
+Punishment: SPAWN RESET
+Category: FW
+Keywords: armor, body armor, vest, 1.23fw
+--------------------------------------------------
+
+[RULE_KEY]: 1.24 fw
+Rule Number: 1.24 FW
+Title: 1.24 FW - Suspended Family Participation
+Description: Arriving at the event territory when your family has been suspended from participation is prohibited. Note: a family may be suspended from participating in family events for 3 to 14 days for repeated violations of these rules.
+Punishment: SPAWN RESET | REPEATED VIOLATIONS: DEMORGAN UP TO 30 MINUTES
+Category: FW
+Keywords: suspended fam, ban fam entry, 1.24fw
+--------------------------------------------------
+
+[RULE_KEY]: 2.1 fw
+Rule Number: 2.1 FW
+Title: 2.1 FW - Skateboard Usage
+Description: Usage of Skateboard is forbidden.
+Punishment: DEMORGAN UP TO 30 MINUTES
+Category: FW
+Keywords: skateboard, board, 2.1fw
+--------------------------------------------------
+
+[RULE_KEY]: 2.2 fw
+Rule Number: 2.2 FW
+Title: 2.2 FW - Unreachable Spots & Roof Shooting
+Description: Shooting from containers, roofs or any unreachable spots is prohibited.
+Punishment: WARN
+Category: FW
+Keywords: roof shoot, container, high ground, unreachable, 2.2fw
+--------------------------------------------------
+
+[RULE_KEY]: 2.3 fw
+Rule Number: 2.3 FW
+Title: 2.3 FW - Family Leader Responsibility
+Description: The family leader is fully responsible for the actions of their members during Family Wars. Note: Additional punishment possible depending on the violation.
+Punishment: DEMORGAN 5 TO 120 MINUTES | WARN | BAN 1 TO 30 DAYS
+Category: FW
+Keywords: leader punishment, fam leader, leader responsibility, 2.3fw
+--------------------------------------------------
+
+[RULE_KEY]: 2.4 fw
+Rule Number: 2.4 FW
+Title: 2.4 FW - Mass Cheating/Software Punishment
+Description: If a family receives more than 5 software-related punishments (cheats, third-party programs), the family will be suspended from participation in Family Wars for 7 days. Note: If the situation repeats after the suspension, the family will be permanently blacklisted or disbanded.
+Punishment: 7 DAYS SUSPENSION | REPEAT: PERMANENT BLACKLIST / DISBAND
+Category: FW
+Keywords: 5 cheats, fam ban, disband, software ban, 2.4fw
+--------------------------------------------------
+
+[RULE_KEY]: 2.5 fw
+Rule Number: 2.5 FW
+Title: 2.5 FW - Event POV / Recording Requirement
+Description: Every participant of Family Wars must record the event from start until end.
+Punishment: WARN | BAN 30 DAYS TO PERMANENT
+Category: FW
+Keywords: pov, screen record, no pov, recording, 2.5fw
+--------------------------------------------------
+
+[RULE_KEY]: 2.6 fw
+Rule Number: 2.6 FW
+Title: 2.6 FW - Unverified Family Participation
+Description: Families that have not passed verification are not allowed to participate in Family Wars.
+Punishment: DEMORGAN 20 MINUTES
+Category: FW
+Keywords: unverified, no verification, verification, 2.6fw
+==================================================
+

@@ -1,0 +1,116 @@
+GENERAL PROVISIONS
+​1.1 LD/DEP - Full Term of Office
+​Rule: Leader ko apna full term (15 days) complete karna hoga. Agar leader bina valid reason ke resign karta hai ya admin dwara remove kiya jata hai, toh uska game account temporarily block ho jayega.
+​Note: Agar leader kisi legitimate reason se hat-ta hai, toh bina ban ke remove ho sakta hai aur ek acting leader appoint kiya jayega.
+​Punishment: Character ban from 3 to 7 days + leader blacklist for up to 60 days.
+​1.1.1 LD/DEP - Re-applying for Leadership
+​Rule: Agar kisi player ko leader/admin position se hataya jata hai, toh woh removal ke 5 days baad hi dobara apply kar sakta hai.
+​Note: Term successfully complete karna removal nahi mana jata.
+​1.2 LD/DEP - 24-Hour Freeze Upon Appointment
+​Rule: Appointment par leader apni faction ko 24 ghante ke freeze par rakh sakta hai. Is dauran organization se related direct activities me participate karna prohibited hai.
+​Violation: Verbal warning.
+​1.3 LD/DEP - Disbanding Members
+​Rule: Server curator ki prior approval se leader term me ek baar organization members ko partially disband kar sakta hai. Fully disband karna prohibited hai.
+​Violation: Removal from position.
+​1.4 LD/DEP - Rank 9 Limit
+​Rule: Organization koi bhi ho, leader apne leadership term me 3 se zyada Rank 9 members appoint nahi kar sakta. (Senior curator ise adjust kar sakta hai).
+​Violation: Written warning.
+​1.5 LD/DEP - Government Senior Staff Ranks
+​Rule: Government organization ka senior staff Leader aur unke 2 immediate lower ranks (Ranks 10, 9, aur 8) se banta hai.
+​Note: Leader Rank 8 par 8 se zyada employees appoint nahi kar sakta.
+​1.5.1 LD/DEP - Gang Senior Staff Ranks
+​Rule: Criminal organization (gang) ka senior staff Leader aur unke deputies (Ranks 10 aur 9) se banta hai.
+​1.6 LD/DEP - Appointing Trusted Members
+​Rule: Government organization ka leader term ke pehle din faction curator ki approval se trusted members appoint kar sakta hai.
+​Violation: Written warning.
+​1.7 LD/DEP - Dismissing Faction Members
+​Rule: Leader ke paas violations par ya trust tootne par faction members ko dismiss karne ka haq hai.
+​Note: Leader ke paas dismissal ka video/audio proof aur valid reason hona chahiye, warna disciplinary action/removal ho sakta hai.
+​1.8 LD/DEP - Organization Freeze
+​Rule: Senior faction curator ki permission se leader term me ek baar (12-24 hours) freeze par rakh sakta hai. (Gangs term me 2 baar "Bizwar freezes" le sakte hain).
+​1.9 LD/DEP - Days Off
+​Rule: Leader ek term me 5 days off le sakta hai, lekin 2 consecutive days se zyada nahi.
+​Note: Days off leadership term me count nahi hote.
+​1.10 LD/DEP - Consecutive Terms Limit
+​Rule: Leader 3 se zyada consecutive terms tak position hold nahi kar sakta. (Gangs all businesses capture karne par reh sakti hain).
+​1.10.1 LD/DEP - Leadership Transfer Limit
+​Rule: Same organization me leadership position 3 se zyada baar consecutive transfer nahi ki ja sakti (3 transfers ke baad official interview process hoga).
+​1.11 LD/DEP - Warning Removal
+​Rule: Written warning 24 hours baad remove ho sakti hai. Verbal warning 12 hours baad curator dwara diye gaye task ko pura karke remove ho sakti hai.
+​1.12 LD/DEP - Transfer to Deputy
+​Rule: Leadership transfer deputy ko tabhi allowed hai jab deputy ne 7 days se zyada bina warning serve kiya ho aur senior curator se interview pass kiya ho.
+​II. RESPONSIBILITIES OF THE LEADER AND THEIR DEPUTY
+​2.1 LD/DEP - Minimum Online Presence
+​Rule: Daily minimum 2 hours ki online presence maintain karna zaruri hai (AFK time count nahi hoga).
+​Violation: Verbal warning -> then written warning.
+​2.2 LD/DEP - Faction Activity & Recruitment
+​Rule: Faction ke andar activity maintain rakhna aur regularly recruitment conduct karna.
+​Violation: Written warning.
+​2.3 LD/DEP - Discord & Channels
+​Rule: Organization ke Discord server par member behavior monitor karna aur official channels ko updated rakhna.
+​Violation: Written warning.
+​2.4 LD/DEP - Preventing Internal Conflicts
+​Rule: Organization ke andar provocations aur internal conflicts ko rokna.
+​Violation: Written warning.
+​2.5 LD/DEP - Global Event Requirement
+​Rule: Leadership continue rakhni ho toh term me kam se kam 1 full aur successful global event conduct karna hoga.
+​Note: Event report faction curator ko submit karni hogi.
+​2.6 LD/DEP - Complying with Curators
+​Rule: Senior curators aur faction curators ke instructions ko follow aur comply karna.
+​Violation: Written warning.
+​Severe Violation: Removal.
+​2.7 LD/DEP - Favoritism Prohibited
+​Rule: Organization ke andar Favoritism (bhaipatiyavad/biasness) strictly prohibited hai.
+​Note: Government orgs me Rank 8+ promotion curator se coordinate honi chahiye. (Gangs me favoritism allowed hai).
+​Violation: Written warning.
+​Severe Violation: Removal.
+​2.8 LD/DEP - Healthy Working Environment
+​Rule: Healthy working environment maintain karna aur train members ko server rules & proper RP interaction sikhana.
+​III. PROHIBITIONS FOR LEADERS AND THEIR DEPUTIES
+​3.1 LD/DEP - Nickname Change Without Permission
+​Rule: Faction curator ki permission ke bina nickname change karna prohibited hai.
+​Violation: Written warning.
+​3.2 LD/DEP - Personal Benefits / RMT
+​Rule: Organizational decisions ke badle koi personal benefit, selling ranks/positions, ya real-world currency/rewards lena prohibited hai.
+​Violation: Character ban up to 31 days + removal from leadership.
+​3.3 LD/DEP - Inappropriate Behavior / Toxicity
+​Rule: Players ke prati toxic behavior, conflicts, ya misconduct. (Profanity sirf IC RP situations me allowed hai).
+​Note: Social networks, Discord, etc. par insults prohibited hain.
+​Violation: Verbal or written warning.
+​Severe Violation: Removal.
+​3.4 LD/DEP - Ignoring Member Violations
+​Rule: Apne organization ke members dwara kiye gaye violations ko ignore karna.
+​Violation: Written warning.
+​Severe Violation: Removal.
+​3.5 LD/DEP - Rank Promotion Limits
+​Rule: Ek din me ek player ko 1 se zyada rank promote karna prohibited hai.
+​Exception: Gangs.
+​Violation: Written warning.
+​Severe Violation: Removal.
+​3.6 LD/DEP - Reinstating Warned/Banned Players
+​Rule: Warning ya character ban pane wale player ko previous rank par wapas nahi rakha ja sakta. Re-join karne par Rank 1 se start karna hoga.
+​Exception: Gangs.
+​Violation: Written warning.
+​3.7 LD/DEP - Appointing Govt Deputies Without Approval
+​Rule: Government organizations me senior curator ki approval ke bina deputies appoint karna.
+​Violation: Written warning.
+​Severe Violation: Removal.
+​3.8 LD/DEP - Additional Character Violations
+​Rule: Leaders/deputies additional characters use kar sakte hain, lekin kisi bhi character par mila punishment leadership period me violation mana jayega.
+​Violation: Written warning.
+​Repeated Violation: Removal.
+​3.9 LD/DEP - Inappropriate Recruitment Locations
+​Rule: Spawns, business interiors, ya official event locations par recruitment karna.
+​Exception: Electronic applications (Gangs par laagu nahi).
+​Violation: Written warning.
+​3.10 LD/DEP - Contradictory Internal Rules
+​Rule: Aise internal rules ya charters banana jo game rules, lore, ya RP logic ke khilaf hon.
+​Violation: Written warning.
+​Severe Violation: Removal.
+​3.11 LD/DEP - Non-RP Nicknames Above Rank 4
+​Rule: Organization me Rank 4 se upar non-RP nicknames wale members rakhna.
+​Clarification: Rank 5+ par promote hone ke liye Name_Surname format hona zaruri hai.
+​Violation: Written warning.
+​3.12 LD/DEP - Remaining AFK Without Pause
+​Rule: Bina pause ke AFK rehna / RP sleep.
+​Violation: Verbal warning.

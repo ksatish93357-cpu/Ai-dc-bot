@@ -1,0 +1,171 @@
+II. Communication and Chat Rules
+​2.1 GR - Abusing/Insult
+​Insulting a player: Mute (15-30 mins).
+​Mentioning relatives: Mute (90-180 mins).
+​Insulting relatives: Character ban (5-10 days).
+​2.2 GR - Forbidden Topics
+​Rule: Drugs, pornography, extremism, terrorism, hate speech, suicide/self-harm promote karna.
+​Violation: 5-14 day ban.
+​Severe Violation: 31 days to permanent ban.
+​2.3 GR - Advertising
+​Rule: Third-party sites, social media, ya doosre projects ki advertising karna.
+​Violation: Mute (60-120 mins) or permanent ban for severe cases.
+​2.4 GR - Hate Speech/Politics
+​Rule: Racism, xenophobia, religious insults, ya political discussions.
+​Violation: Mute (60-180 mins) or 5-31 day ban.
+​2.5 GR - Voice Chat Disturbance
+​Rule: Music, noise, high sensitivity mic noise in voice chat.
+​Violation: Mute up to 60 minutes.
+​2.6 GR - IC/OOC Conflicts & Harassment
+​Rule: Threatening players, using personal info (doxxing), intimidation, manipulation.
+​Violation: 7-day ban to permanent.
+​III. Interaction with Administration
+​3.1 GR - Misuse of Report System
+​Rule: Report section me off-topic baatein karna ya money/transport spam karna.
+​Violation: Verbal warning / Repeat: Mute (up to 30 mins).
+​3.2 GR - Disrespect/Lying to Admin
+​Rule: Rudeness, slander, ya administration se jhooth bolna.
+​Violation: Mute (30-60 mins).
+​Severe Violation: Ban (1-31 days).
+​3.3 GR - Interfering with Admin Duties
+​Rule: Admin kaam me dakhal dena ya spamming karna.
+​Violation: Verbal warning.
+​Severe Violation: DEMORGAN - up to 60 mins.
+​3.4 GR - Publicly Arguing with Admins
+​Rule: Publicly admin decisions par argue karna (Complaints 2 din me proper channels par honi chahiye).
+​Violation: Mute (60-180 mins) or Ban (1-5 days).
+​3.5 GR - Leaking Internal Information
+​Rule: Admin/Staff documents, internal info, ya materials leak/share karna.
+​Violation: Character ban for 1-31 days.
+​3.6 GR - Admin Rights
+​Rule: Administration ke paas official platforms par violation par punishment dene ka adhikar hai.
+​IV. Account and Property Rules
+​4.1 GR - Account Trading & Fraud
+​Rule: Currency manipulation, fraud, selling/trading accounts (90% away from market value is fraud).
+​Violation: 1-7 day ban.
+​Severe Violation: Character ban for 1 - 31 days to permanent.
+​4.2 GR - Distorting In-Game Events
+​Rule: Family/Faction conflicts me limits cross karke game ko "unplayable" banana.
+​Violation: 7-31 day ban.
+​4.3 GR - Business Limits
+​Rule: Har player per server sirf 1 business rakh sakta hai.
+​Violation: Verbal warning.
+​Severe Violation: Character ban for 1 - 31 days.
+​4.4 GR - Real Money Trading (RMT)
+​Rule: In-game items/currency ko real money se khareedna ya bechna.
+​Violation: 15-day ban with a wipe of assets.
+​Severe Violation: Permanent ban.
+​4.5 GR - One-way Transfers Limit
+​Rule: One-way transfers limited to 10,000,000$ per day.
+​Violation: Transaction reversal.
+​Severe Violation: 31-day ban.
+​4.6 GR - Self-Transfer (Multi-Account)
+​Rule: Apne hi doosre characters me money transfer karna (even middle-man se).
+​Violation: Transaction reversal.
+​Severe Violation: Ban up to a 31-day character ban + asset wipe.
+​4.7 GR - Inter-Server Property Transfer
+​Rule: Doosre servers ke beech property transfer, selling, trading, ya gifting.
+​Violation: Character ban up to 31 days + wipe of transferred assets.
+​4.8 GR - Bypassing Punishments via Alts
+​Rule: Alternative characters se server rules circumvent karna ya punishments bypass karna.
+​Violation: Character ban from 31 days to permanent.
+​V. Gameplay Rules
+​5.1 GR - Abuse of Mechanics
+​Rule: "Action" ya "Event" mechanics ka galat istemal karke unfair outcome banana.
+​Violation: Mute - 20 mins.
+​5.1.1 GR - Fail RP
+​Rule: Apne character me RP na karna / failure ki permission na dena.
+​Violation: DEMORGAN up to 20 mins.
+​5.2 GR - Third-Party Software / Cheats
+​Rule: Cheats, auto-clickers, macros, bots, scripts, ya bug exploits ka use karna.
+​Bug abuse: Warn / 3-7 day ban.
+​Software/Cheating: 7-31 day ban.
+​Mods: Ban up to 7 days.
+​5.3 GR - Combat Logging / Avoiding RP
+​Rule: RP situation se bachne ke liye game leave karna, AFK jana, ya paani me chupna.
+​Violation: Demorgan up to 60 mins.
+​5.4 GR - Home Protection Violation
+​Rule: Residents/guests ko unke ghar ke entrance/territory par kill/damage karna.
+​Violation: DEMORGAN - up to 120 mins.
+​5.4.1 GR - Aggressive Guest
+​Rule: Agar guest aggressive ho ya chhorne se mana kare, residents force use kar sakte hain.
+​Violation: DEMORGAN - up to 120 mins.
+​5.4.2 GR - Guest Refusal
+​Rule: Mana karne par bhi na jane wala guest right kho deta hai agar resident force use kare.
+​Violation: DEMORGAN - up to 120 mins.
+​5.5 GR - Stream Snipping / Media Interference
+​Rule: Media partner recording/streaming me dakhal dena ya interfere karna.
+​Violation: DEMORGAN up to 60 mins.
+​Severe Violation: Ban up to 3 days.
+​5.6 GR - Humiliating RP / Harassment
+​Rule: Human dignity ko humiliate karne wale RP actions ya sexual harassment.
+​Violation: Demorgan + Mute.
+​Severe Violation: 3 day ban.
+​5.7 GR - Offensive License Plates
+​Rule: License plates me offensive/discriminatory text use karna.
+​Violation: Character ban - up to 31 days (Removed upon license plate change).
+​5.8 GR - Offensive Family Names
+​Rule: Family names me profane, offensive, ya relative-insulting text use karna.
+​Violation: Character ban - up to 31 days (Removed upon family name change).
+​5.9 GR - Disrupting Events
+​Rule: Server events ko intentionally disrupt karna ya doosron ko task complete karne se rokna.
+​Violation: WARN.
+
+1.1.1 GR - Official Mechanism
+​Rule: Complaint ek official tarika hai player ya administrator dwara kiye gaye rule violation ko report karne ka. Complaint tabhi review hogi jab objective evidence (proof) diya gaya ho.
+​1.1.2 GR - Section Usage
+​Rule: Complaint section general communication, discussions, questions, ya technical issues ke liye nahi hai.
+​Discord: [https://discord.gg/grnd](https://discord.gg/grnd)
+​Technical Support: [https://support.grnd.gg/](https://support.grnd.gg/)
+​1.1.3 GR - Automatic Rejection
+​Rule: In rules ke khilaf submit ki gayi complaint ko bina kisi review ke automatically reject kar diya jayega.
+​1.2.1 GR - Unauthorized Evidence Platforms
+​Rule: Complaint reject hogi agar evidence unauthorized platforms par host ho.
+​Allowed Screenshots: Game launcher, imgur.com, yapx.ru, Yandex Disk, Google Drive.
+​Allowed Videos: youtube.com, imgur.com, rutube.ru, Yandex Disk, Google Drive.
+​1.2.2 GR - Missing/Edited Evidence
+​Rule: Complaint reject hogi agar evidence missing, cropped, edited ho ya violation clearly na dikhata ho.
+​1.2.3 GR - Unclear Explanation
+​Rule: Complaint description me incident ka clear aur logical explanation nahi hoga toh reject hogi.
+​1.2.4 GR - Unlinked Account
+​Rule: Complaint aise account se submit ki gayi ho jo affected character se linked na ho (Exception: Player ke 3 active characters me se kisi se bhi allow hai).
+​1.2.5 GR - Third-Party Software Usage
+​Rule: Evidence me third-party software (cheats, macros, prohibited mods) ka use dikhne par complaint reject hogi.
+​1.2.6 GR - Time Limit (48 Hours)
+​Rule: Incident hone ya punishment milne ke 48 ghante se zyada beet chuke hon (Exception: Game management, curator, ya senior admin ke decision par severe cases me allow ho sakta hai).
+​1.2.7 GR - Toxic Behavior in Complaint
+​Rule: Complaint text me insults, profanity, toxic behavior, ya provocations hone par reject hogi.
+​1.2.8 GR - Third-Party Complaints
+​Rule: Complaint kisi aise third party ne submit ki ho jo incident me involve nahi tha (Exception: Passive witness filing allow hai agar violation provoke na kiya ho).
+​1.2.9 GR - Duplicate/Spam
+​Rule: Pehle se review ki gayi complaint ko duplicate karna ya spam elements include karna.
+​1.2.10 GR - Unclear/Invalid Recording
+​Rule: Video recording invalid mani jayegi agar interface, visible text, participants, unke actions, ya audio clearly readable/audible na ho.
+​1.3.1 GR - Mandatory Details
+​Rule: Complaint me ye include hona ZARURI hai:
+​Screenshot of punishment (agar issue hua ho).
+​Clear and logical description.
+​Complete evidence (video with timecodes / screenshots).
+​Violator (player/admin) ka correct nickname.
+​1.3.2 GR - Multiple Violators & Addressing Rules
+​Rule: Ek hi complaint me ek se zyada players/admins par report karna mana hai (Sabhi ke liye alag complaint file karein).
+​Addressing Principle:
+​Violator player ho -> File against player.
+​Violator admin ho -> File against admin.
+​Decision se disagree ho -> Verdict dene wale admin par complaint file karein.
+​Repeated decision se disagree ho -> Server curator ko escalate karein.
+​1.3.3 GR - Substantive Description Examples
+​Correct DM in GZ: "DM in a green zone: Player Nick_Name started shooting at me near the hospital. Evidence is attached."
+​Incorrect Punishment: "Administrator Nick_Name issued a demorgan for nonRP. Evidence proving my innocence is attached..."
+​RMT Example: "Selling/buying in-game property for real money: Player Nick_Name offered to sell a house for real money in chat..."
+​1.3.4 GR - Vague Phrases Prohibited
+​Rule: Complaint me "deal with it", "what was that?", ya "I was punished for no reason" jaise vague phrases likhne par rejection hoga.
+​1.4.1 GR - Review Timeframe
+​Rule: Complaints publish hone ke 48 ghante ke andar process ki jaati hain (Exceptional cases me 72 ghante tak extend ho sakta hai).
+​1.4.2 GR - Escalation for Delay
+​Rule: Agar established timeframe me response na मिले, toh repeat complaint Server Curator ko address karke submit ki ja sakti hai.
+​1.5.1 GR - Review Authority
+​Rule: Kisi bhi administrator ko bina personal preferences ke, sirf violation ke basis par complaint review karne ka haq hai.
+​1.5.2 GR - Internal Evidence Sharing
+​Rule: Internal administrative evidence players ke sath share nahi kiya jayega, lekin senior management/curator ke request par review ho sakta hai.
+
