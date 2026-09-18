@@ -1,4 +1,4 @@
-# Grand Mobile AI Discord Bot
+# A normal ai chat discord bot by using Groq AI api
 
 Features:
 - Groq AI chat in English/Hinglish.
