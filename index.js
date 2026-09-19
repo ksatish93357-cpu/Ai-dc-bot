@@ -387,18 +387,8 @@ function isRuleQuery(text) {
 // CHAT ENABLED
 // =====================================================
 
-function isEnabled(
-  guildId,
-  channelId
-) {
-  const value =
-    channelState.get(
-      channelId
-    );
-
-  return value === undefined
-    ? chatDefault
-    : value;
+function isEnabled(guildId, channelId) {
+  return channelState.get(channelId) === true;
 }
 
 // =====================================================
